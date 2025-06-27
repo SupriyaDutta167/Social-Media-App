@@ -130,17 +130,35 @@ A modern social media platform built with PHP and MySQL, featuring user authenti
 - Mobile responsive design
 - Progressive enhancement
 
-## Future Enhancements
+---
 
-- **Image Posts**: Support for image sharing in posts
-- **Like System**: Like and react to posts
-- **Comments**: Comment on posts
-- **Groups**: Create and join groups
-- **Privacy Settings**: Control post visibility
-- **Email Notifications**: Email alerts for important events
-- **API**: RESTful API for mobile apps
-- **Real-time Updates**: WebSocket implementation for instant updates
+## 📸 ScreenShot
+![Screenshot 2025-06-27 113737](https://github.com/user-attachments/assets/d2940425-f60f-44d5-aecc-da137c5ab43a)
+![Screenshot 2025-06-27 113751](https://github.com/user-attachments/assets/3f28fa7e-9dec-4de3-be3c-056e566ef840)
+![Screenshot 2025-06-27 113827](https://github.com/user-attachments/assets/46089585-9330-4f60-959a-0ce0691c8047)
+![Screenshot 2025-06-27 105316](https://github.com/user-attachments/assets/8a082493-7f95-435b-84aa-ced5ab2387c0)
+![Screenshot 2025-06-27 105255](https://github.com/user-attachments/assets/2e820ce7-3394-411f-90d9-06523e2ed4ad)
+![Screenshot 2025-06-27 104955](https://github.com/user-attachments/assets/534e9620-2569-4328-a0e9-c33a1b289c1e)
+
 
 ## Support
 
 For issues or questions, please check the code comments and ensure all dependencies are properly configured. 
+
+---
+
+## 📄 License
+
+All Rights Reserved.
+
+Copyright (c) Supriya Dutta [2025].
+
+This software is the intellectual property of Supriya Dutta.
+
+Unauthorized copying, use, distribution, or modification of this code, in whole or in part, is strictly prohibited without explicit written permission from the author.
+
+---
+© 2025 Supriya Dutta. All rights reserved.
+This project is developed and maintained by Supriya Dutta.
+Unauthorized copying, reproduction, or redistribution is prohibited.
+This project is licensed - see the [LICENSE](LICENSE) file for details.
