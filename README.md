@@ -72,7 +72,7 @@ A modern social media platform built with PHP and MySQL, featuring user authenti
 
 2. **File Structure**:
    ```
-   task2/
+   Social-Media-App/
    ├── assets/uploads/     # Profile pictures and uploads
    ├── config.php         # Database and security configuration
    ├── dashboard.php      # Main dashboard interface
