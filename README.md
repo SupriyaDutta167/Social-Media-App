@@ -164,3 +164,4 @@ Unauthorized copying, use, distribution, or modification of this code, in whole 
 This project is developed and maintained by Supriya Dutta.
 Unauthorized copying, reproduction, or redistribution is prohibited.
 This project is licensed - see the [LICENSE](LICENSE) file for details.
+Contact: dsupriya167@gmail.com
