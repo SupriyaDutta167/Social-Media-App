@@ -133,6 +133,8 @@ A modern social media platform built with PHP and MySQL, featuring user authenti
 ---
 
 ## 📸 ScreenShot
+![Recording 2025-06-27 122234](https://github.com/user-attachments/assets/5131e03f-b5eb-45e4-bcf4-7c7021558fe1)
+
 ![Screenshot 2025-06-27 113737](https://github.com/user-attachments/assets/d2940425-f60f-44d5-aecc-da137c5ab43a)
 ![Screenshot 2025-06-27 113751](https://github.com/user-attachments/assets/3f28fa7e-9dec-4de3-be3c-056e566ef840)
 ![Screenshot 2025-06-27 113827](https://github.com/user-attachments/assets/46089585-9330-4f60-959a-0ce0691c8047)
